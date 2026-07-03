@@ -74,16 +74,31 @@ table {
 
 @media screen and (min-width: 620px) {
 
+    body {
+        background-color:aqua;
+        color: navy;
+    }
+
 }
 
 /*-------------------- MEDIA QUERY (large) ------------------------------------*/
 
 @media screen and (min-width: 950px) {
 
+    body {
+        background-color: lightcoral;
+        color: darkred;
+    }
+
 }
 
 /*-------------------- MEDIA QUERY (xl) ---------------------------------------*/
 
 @media screen and (min-width: 1280px) {
+
+    body {
+        background-color: lavender;
+        color: purple;
+    }
 
 }
