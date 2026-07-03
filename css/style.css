@@ -63,7 +63,8 @@ table {
 /*-------------------- ROOT VARIABLES ---------------------------------------*/
 
 :root {
-    
+    font-family: "Inter", sans-serif;
+    font-size: 1em;
 }
 
 /* ------------------- GLOBAL STYLES (mobile first/small) ---------------------*/
