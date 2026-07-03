@@ -69,7 +69,12 @@ table {
 
 /* ------------------- GLOBAL STYLES (mobile first/small) ---------------------*/
 
-
+body {
+    min-width: 450px;
+    margin: 0;
+    padding: 0;
+    line-height: 1.5em;
+}
 
 /*-------------------- MEDIA QUERY (medium) -----------------------------------*/
 
